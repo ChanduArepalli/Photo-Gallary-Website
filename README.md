@@ -1,1 +1,1 @@
-# Photo-Gallary-Website using Django
+# Photo-Gallery-Website using Django
