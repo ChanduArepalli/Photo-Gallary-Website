@@ -26,7 +26,7 @@ SECRET_KEY = 'ombq^de27mb4%dlirdfhg76&#*$fufy&*er(<(ChanduArepalli)>)$$x*s7$3r@y
 #DEBUG = True
 DEBUG = bool(os.environ.get('DJANGO_DEBUG', False))
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['photo-gallary.netlify.com']
 
 
 # Application definition
